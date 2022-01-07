@@ -1,0 +1,4 @@
+Dual Cotexin;250 ml;2x3;10;;0
+Piriton;300 ml;1x3;30;;0
+Piriton;250 ml;2x3;90;;0
+Flagi;250 ml;2x3;90;;0
